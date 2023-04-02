@@ -71,7 +71,7 @@ import scrap_functions
 
 #scrap_functions.set_locations()
 #scrap_functions.get_missing_images()
-scrap_functions.get_missing_types()
+#scrap_functions.get_missing_types()
 #scrap_functions.set_inactive()
 #scrap_functions.check_types()
 #scrap_functions.image_one_download()
