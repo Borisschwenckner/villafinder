@@ -1,0 +1,725 @@
+[19-Jan-2023 21:17:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:18:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function "() in /usr/www/users/schweng/villafinder/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:19:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function "() in /usr/www/users/schweng/villafinder/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:21:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function " () in /usr/www/users/schweng/villafinder/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:22:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:22:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:23:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string " . $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:23:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string " . $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:24:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string " . $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:24:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string " . $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:25:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$row_region", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:25:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function "() in /usr/www/users/schweng/villafinder/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:26:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ">" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:27:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ">" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:30:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string ". ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:30:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string ". $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:30:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected single-quoted string ". $row_region["name"] . ", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 167
+[19-Jan-2023 21:33:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "selected", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Undefined variable $row_region in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:35:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /usr/www/users/schweng/villafinder/index.php on line 165
+[19-Jan-2023 21:39:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "def_type" in /usr/www/users/schweng/villafinder/index.php:206
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 206
+[19-Jan-2023 21:44:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "<" in /usr/www/users/schweng/villafinder/index.php on line 206
+[19-Jan-2023 21:53:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /usr/www/users/schweng/villafinder/index.php on line 575
+[19-Jan-2023 21:53:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /usr/www/users/schweng/villafinder/index.php on line 575
+[20-Jan-2023 17:50:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "filter", expecting "," or ";" in /usr/www/users/schweng/villafinder/index.php on line 567
+[20-Jan-2023 17:50:32 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 93
+[20-Jan-2023 17:50:32 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 102
+[20-Jan-2023 17:53:40 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 93
+[20-Jan-2023 17:53:40 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 102
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:09 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:27 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:30 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:32 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 63
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 68
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 73
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 78
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 83
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 88
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 93
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 98
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/head.php on line 103
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "multiple_locations" in /usr/www/users/schweng/villafinder/index.php on line 12
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "links_in_new_tab" in /usr/www/users/schweng/villafinder/index.php on line 13
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 205
+[20-Jan-2023 17:55:33 Europe/Berlin] PHP Warning:  Undefined array key "userid" in /usr/www/users/schweng/villafinder/index.php on line 473
+[20-Jan-2023 18:04:40 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 93
+[20-Jan-2023 18:04:40 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 102
+[21-Jan-2023 09:17:32 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[21-Jan-2023 09:17:32 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[21-Jan-2023 09:30:23 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[21-Jan-2023 09:30:23 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[25-Jan-2023 12:55:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "class", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 58
+[25-Jan-2023 13:00:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 72
+[25-Jan-2023 13:00:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 72
+[25-Jan-2023 13:03:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:03:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:03:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:03:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:04:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:04:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:04:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:04:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 64
+[25-Jan-2023 13:14:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected integer "1", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 71
+[25-Jan-2023 13:14:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected integer "1", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 71
+[25-Jan-2023 13:15:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected integer "1", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 71
+[25-Jan-2023 13:19:17 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:19:23 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:19:31 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:28:43 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:28:57 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:29:01 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:29:22 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:29:28 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:30:15 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:30:20 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:31:02 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 13:33:27 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:27:32 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:27:52 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:29:54 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:29:56 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:30:50 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:31:30 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:31:44 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:35:05 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:36:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "run_next_time", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 14:36:12 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:37:19 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:37:44 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:39:40 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 14:52:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 14:55:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 14:57:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 14:58:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:01:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:01:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:02:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:03:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:03:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:03:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 116
+[25-Jan-2023 15:06:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:06:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:06:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:06:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:07:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:07:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:07:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$value" in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:08:47 Europe/Berlin] PHP Warning:  Undefined variable $payload in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:47 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #1 ($separator) of type string is deprecated in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:47 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /usr/www/users/schweng/villafinder/sql.php:117
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(117): explode()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:51 Europe/Berlin] PHP Warning:  Undefined variable $payload in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:51 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #1 ($separator) of type string is deprecated in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:51 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /usr/www/users/schweng/villafinder/sql.php:117
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(117): explode()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:53 Europe/Berlin] PHP Warning:  Undefined variable $payload in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:53 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #1 ($separator) of type string is deprecated in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:08:53 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /usr/www/users/schweng/villafinder/sql.php:117
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(117): explode()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:09:06 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:09:18 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:09:20 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:09:30 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:09:51 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:10:04 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:10:15 Europe/Berlin] PHP Warning:  Undefined array key 1 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 15:11:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for type integer: ".5."
+LINE 1: update  cron set run_next_time = 1 where id = '.5.';
+                                                      ^ in /usr/www/users/schweng/villafinder/sql.php:124
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(124): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:14:03 Europe/Berlin] PHP Warning:  Undefined variable $value in /usr/www/users/schweng/villafinder/sql.php on line 121
+[25-Jan-2023 15:15:09 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = 1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:124
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(124): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:15:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = 1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:124
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(124): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:16:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = 1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:124
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(124): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:17:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function str() in /usr/www/users/schweng/villafinder/sql.php:117
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:17:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function str() in /usr/www/users/schweng/villafinder/sql.php:117
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 117
+[25-Jan-2023 15:17:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = 1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:124
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(124): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:20:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = 1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:28:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = $2 where id = $3;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:29:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = $2 where id = $3;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:29:48 Europe/Berlin] PHP Warning:  Undefined variable $field1 in /usr/www/users/schweng/villafinder/sql.php on line 121
+[25-Jan-2023 15:29:48 Europe/Berlin] PHP Warning:  Undefined variable $field1 in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:29:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = $2 where id = $3;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:29:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "$1"
+LINE 1: update  cron set $1 = $2 where id = $3;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:30:14 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: :field1 in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:31:40 Europe/Berlin] PHP Warning:  Undefined variable $field in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:31:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update  cron set  = $1 where id = $2;
+                          ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:32:06 Europe/Berlin] PHP Warning:  Undefined variable $field in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:32:06 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "''"
+LINE 1: update cron set '' = $1 where id = $2;
+                        ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:32:46 Europe/Berlin] PHP Warning:  Undefined variable $field in /usr/www/users/schweng/villafinder/sql.php on line 124
+[25-Jan-2023 15:32:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:126
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 15:56:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "run_next_time", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 15:57:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "run_next_time", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 15:57:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "run_next_time", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 16:03:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "'run_next_time'"
+LINE 1: update cron set 'run_next_time' = $1 where id = $2;
+                        ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 16:03:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "'run_next_time'"
+LINE 1: update cron set 'run_next_time' = $1 where id = $2;
+                        ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 16:12:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "value" in /usr/www/users/schweng/villafinder/cron.php:62
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 16:12:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "value" in /usr/www/users/schweng/villafinder/cron.php:62
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/cron.php on line 62
+[25-Jan-2023 16:54:59 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 16:55:12 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 16:55:24 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 16:55:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 16:55:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 118
+[25-Jan-2023 16:57:02 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 16:57:19 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 16:57:42 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 16:57:57 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 17:01:17 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:06:47 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:06:52 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:06:54 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:07:03 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:07:12 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:07:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:07:12 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:08:19 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:08:47 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:11:38 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:11:46 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:11:53 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:11:58 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:12:04 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:12:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:12:20 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:12:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:13:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:13:38 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:13:51 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:13:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:14:01 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 17:14:08 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 17:14:11 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:14:30 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:14:32 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 17:14:36 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /usr/www/users/schweng/villafinder/sql.php:115) in /usr/www/users/schweng/villafinder/sql.php on line 126
+[25-Jan-2023 17:14:44 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:14:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "="
+LINE 1: update cron set  = $1 where id = $2;
+                         ^ in /usr/www/users/schweng/villafinder/sql.php:123
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/sql.php(123): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/sql.php on line 123
+[25-Jan-2023 17:15:32 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:16:01 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:16:05 Europe/Berlin] PHP Warning:  Undefined array key 2 in /usr/www/users/schweng/villafinder/sql.php on line 119
+[25-Jan-2023 17:16:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "sort", expecting "," or ";" in /usr/www/users/schweng/villafinder/cron.php on line 65
+[25-Jan-2023 17:16:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /usr/www/users/schweng/villafinder/cron.php on line 65
+[25-Jan-2023 17:17:06 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:20:27 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:21:03 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[25-Jan-2023 17:21:08 Europe/Berlin] PHP Warning:  Undefined array key "run_next_time" in /usr/www/users/schweng/villafinder/cron.php on line 29
+[28-Jan-2023 11:39:51 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[28-Jan-2023 11:39:51 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[03-Feb-2023 07:34:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in /usr/www/users/schweng/villafinder/locations_edit.php on line 59
+[03-Feb-2023 07:39:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in /usr/www/users/schweng/villafinder/locations_edit.php on line 59
+[03-Feb-2023 07:39:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in /usr/www/users/schweng/villafinder/locations_edit.php on line 59
+[11-Feb-2023 13:43:01 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[11-Feb-2023 13:44:21 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[11-Feb-2023 14:39:22 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[11-Feb-2023 14:39:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[11-Feb-2023 14:39:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 268
+[12-Feb-2023 10:38:28 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[12-Feb-2023 10:38:28 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[12-Feb-2023 10:39:41 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[12-Feb-2023 10:39:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[12-Feb-2023 11:30:10 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 93
+[12-Feb-2023 11:30:10 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 102
+[12-Feb-2023 11:51:57 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 93
+[12-Feb-2023 11:51:57 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 102
+[12-Feb-2023 11:55:39 Europe/Berlin] PHP Warning:  Undefined array key "In Arbeit" in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 12:16:21 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 12:16:21 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[12-Feb-2023 12:16:45 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 12:16:45 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[12-Feb-2023 12:17:01 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 12:17:01 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[12-Feb-2023 12:28:03 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 12:28:03 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[12-Feb-2023 20:12:00 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[12-Feb-2023 20:12:00 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[21-Feb-2023 23:04:01 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[21-Feb-2023 23:04:01 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[01-Mar-2023 09:42:49 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[01-Mar-2023 09:42:49 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[04-Mar-2023 08:29:09 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[04-Mar-2023 08:29:09 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[07-Mar-2023 09:09:35 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[07-Mar-2023 09:09:35 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[07-Mar-2023 09:09:50 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "ext_information_user_id_property_id_key"
+DETAIL:  Key (user_id, property_id)=(24, 780468) already exists. in /usr/www/users/schweng/villafinder/ext_info.php:57
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/ext_info.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/ext_info.php on line 57
+[07-Mar-2023 09:10:12 Europe/Berlin] PHP Warning:  Undefined array key "note" in /usr/www/users/schweng/villafinder/ext_info.php on line 53
+[07-Mar-2023 09:10:12 Europe/Berlin] PHP Warning:  Undefined array key "favorite" in /usr/www/users/schweng/villafinder/ext_info.php on line 54
+[07-Mar-2023 09:10:12 Europe/Berlin] PHP Warning:  Undefined array key "state1" in /usr/www/users/schweng/villafinder/ext_info.php on line 55
+[07-Mar-2023 09:10:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "ext_information_user_id_property_id_key"
+DETAIL:  Key (user_id, property_id)=(24, 780468) already exists. in /usr/www/users/schweng/villafinder/ext_info.php:57
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/ext_info.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/ext_info.php on line 57
+[07-Mar-2023 09:12:07 Europe/Berlin] PHP Warning:  Undefined array key "note" in /usr/www/users/schweng/villafinder/ext_info.php on line 53
+[07-Mar-2023 09:12:07 Europe/Berlin] PHP Warning:  Undefined array key "favorite" in /usr/www/users/schweng/villafinder/ext_info.php on line 54
+[07-Mar-2023 09:12:07 Europe/Berlin] PHP Warning:  Undefined array key "state1" in /usr/www/users/schweng/villafinder/ext_info.php on line 55
+[07-Mar-2023 09:12:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "ext_information_user_id_property_id_key"
+DETAIL:  Key (user_id, property_id)=(24, 780468) already exists. in /usr/www/users/schweng/villafinder/ext_info.php:57
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/ext_info.php(57): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/ext_info.php on line 57
+[07-Mar-2023 09:13:24 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[07-Mar-2023 09:13:24 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[07-Mar-2023 10:33:09 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[07-Mar-2023 10:33:09 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 06:14:31 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 06:14:31 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 06:14:31 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 268
+[09-Mar-2023 09:37:36 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 10:57:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[57P01]: Admin shutdown: 7 FATAL:  terminating connection due to administrator command
+LINE 1: SELECT site FROM sites WHERE state = 1 order by site;
+                         ^
+SSL connection has been closed unexpectedly in /usr/www/users/schweng/villafinder/index.php:110
+Stack trace:
+#0 /usr/www/users/schweng/villafinder/index.php(110): PDOStatement->execute()
+#1 {main}
+  thrown in /usr/www/users/schweng/villafinder/index.php on line 110
+[09-Mar-2023 11:32:38 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:32:38 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:32:38 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 268
+[09-Mar-2023 11:42:13 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:42:13 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:44:30 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:44:30 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:44:31 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:44:31 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:45:54 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:45:54 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:45:56 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:45:56 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:45:57 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:45:57 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:45:57 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:45:57 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:46:39 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:46:39 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:46:40 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:46:40 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:46:41 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:46:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:47:08 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:47:09 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:47:09 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:47:09 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:47:10 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:47:10 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 245
+[09-Mar-2023 11:48:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /usr/www/users/schweng/villafinder/sites_edit.php on line 229
+[09-Mar-2023 11:48:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /usr/www/users/schweng/villafinder/sites_edit.php on line 229
+[09-Mar-2023 11:48:29 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:48:29 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:48:41 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:48:41 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:50:53 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:50:53 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:51:03 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:51:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:51:17 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:51:17 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:52:37 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:52:37 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:52:43 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:52:43 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:52:56 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:52:56 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:53:16 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:53:16 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:55:55 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:55:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 246
+[09-Mar-2023 11:57:52 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:58:53 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 11:58:59 Europe/Berlin] PHP Warning:  Undefined array key "scaping_started" in /usr/www/users/schweng/villafinder/sites_edit.php on line 96
+[09-Mar-2023 11:59:06 Europe/Berlin] PHP Warning:  Undefined array key "scaping_started" in /usr/www/users/schweng/villafinder/sites_edit.php on line 96
+[09-Mar-2023 12:01:30 Europe/Berlin] PHP Warning:  Undefined array key "warn_days" in /usr/www/users/schweng/villafinder/sites_edit.php on line 100
+[09-Mar-2023 12:01:36 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[09-Mar-2023 12:01:36 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 260
+[09-Mar-2023 12:40:12 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[13-Mar-2023 09:56:49 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[13-Mar-2023 09:56:49 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[13-Mar-2023 09:59:53 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[13-Mar-2023 09:59:53 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[13-Mar-2023 14:21:30 Europe/Berlin] PHP Warning:  Undefined variable $state in /usr/www/users/schweng/villafinder/ext_info.php on line 92
+[13-Mar-2023 14:21:30 Europe/Berlin] PHP Warning:  Undefined variable $note in /usr/www/users/schweng/villafinder/ext_info.php on line 101
+[18-Mar-2023 12:38:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "echo" in /usr/www/users/schweng/villafinder/statistik.php on line 60
+[18-Mar-2023 12:40:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /usr/www/users/schweng/villafinder/statistik.php:57
+Stack trace:
+#0 {main}
+  thrown in /usr/www/users/schweng/villafinder/statistik.php on line 57
+[18-Mar-2023 12:46:14 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[25-Mar-2023 11:36:44 Europe/Berlin] PHP Warning:  Undefined array key "searchterms" in /usr/www/users/schweng/villafinder/property_types_edit.php on line 21
+[25-Mar-2023 11:38:16 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[02-Apr-2023 09:11:50 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[02-Apr-2023 09:11:50 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 260
+[02-Apr-2023 09:11:50 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 284
+[02-Apr-2023 11:28:32 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43
+[02-Apr-2023 11:28:32 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 260
+[02-Apr-2023 11:28:32 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/www/users/schweng/villafinder/sites_edit.php on line 284
+[02-Apr-2023 11:42:36 Europe/Berlin] PHP Warning:  Undefined array key "register" in /usr/www/users/schweng/villafinder/sites_edit.php on line 43

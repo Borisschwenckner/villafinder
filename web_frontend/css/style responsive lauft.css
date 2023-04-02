@@ -1,0 +1,319 @@
+/*
+^ Styling the drop-down menu for language switcher
+* Auther : Fadi Nouh
+* URL : https://bluebit.dev
+* Repository: https://github.com/bluebits-academy/language-switcher
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css');
+
+
+
+body {
+	margin:0;
+	padding:20px;
+    font-family: 'Didact Gothic', sans-serif;
+    color:#333;
+    box-sizing: border-box;
+    width:100%
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+  margin-left:0px;
+    background-color: #D7DBDD;
+    height: 80px;
+    padding: 10px 10px;
+    width:100%;
+font-size: 15px;
+}
+
+  body{ font: 16px sans-serif; text-align: left; }
+  #body { background: #F2F3F4; margin-left:10px; margin-right:10px; margin-top:0px; margin-bottom:0px ;font-size: 15px; }
+  #.table_main1 {margin-left:10%; background: #F2F3F4; font: 7px;}
+  #.table_result1 {margin-left:10%; background: #F2F3F4; font: 7px;}
+
+.table1, .table2{
+  float:left;
+  text-align: left;
+  width: 380px;
+	border-collapse: collapse;
+  margin-left:40px;
+  margin-right:10px;
+  font-size:15px;
+}
+.table4 td.hidenormal tr.hidenormal {
+     display: none;
+}
+
+.table1 td, .table2 td{
+  padding:5px 0px 5px 10px ;
+  border:1px solid #ddd;
+  text-align: left;
+	font-size:14px;
+
+}
+
+.table1 th , .table2 th{
+	background-color: darkblue;
+	color:#ffffff;
+  padding:5px 0px 5px 10px ;
+
+
+}
+
+
+.table td.hidenormal tr.hidenormal {
+     display: none;
+}
+
+
+
+
+
+.table3{
+  width: 90%;
+	border-collapse: collapse;
+  padding: 10px;
+  margin-left:40px;
+  padding-left:40px;
+  text-align: left;
+}
+.table3 td,.table th{
+  padding:10px 15px ;
+  border:0px solid #ddd;
+  text-align: center;
+  font-size:14px;
+}
+
+
+
+
+.table_result{
+	width: 90%;
+	border-collapse: collapse;
+  background-color: white;
+  margin-left:40px;
+  margin-right:10px;
+	#  padding: 10px;
+}
+
+.table_result td,.table_result th{
+  #padding: 1px 10px;
+  border:0px solid #ddd;  #-----------------------------------
+  text-align: left;
+  font-size:15px;
+	text-align: left;
+}
+
+.table_result td.hidenormal, tr.hidenormal {
+     display: none;
+
+}
+
+
+.table_result th{
+	background-color: white;
+	color:black;
+}
+
+
+nav {
+    width: 90%;
+    margin: 5 auto;
+    display: flex;
+    /*justify-content: flex-start;*/
+}
+
+
+.logo {
+    width: 100px;
+
+}
+
+.logo img {
+    width: 200px;
+
+}
+
+.lang-menu {
+  float: right;
+    width: 100px;
+    text-align: right;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: auto;
+    position: relative;
+}
+.account-menu {
+  float: right;
+    width: 100px;
+    display: flex;
+    margin-top: 15px;
+    margin-right: 0px;
+    margin-left: auto;
+
+}
+.float-right {
+float: right;
+width: 80px;
+
+}
+.lang-menu .selected-lang {
+
+    display: flex;
+    line-height: 1;
+    cursor: pointer;
+}
+.lang-menu .selected-lang:before {
+    content: '';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    <!--background-image: url(flag-of-Germany.png1); -->
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 0;
+    display: none;
+    background-color: #fff;
+    border: 1px solid #f8f8f8;
+    position: absolute;
+    top: 45px;
+    right: 0px;
+    width: 155px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+}
+
+
+.lang-menu ul li {
+    list-style: none;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lang-menu ul li a {
+    text-decoration: none;
+    width: 125px;
+    padding: 5px 10px;
+    display: block;
+}
+
+.lang-menu ul li:hover {
+    background-color: #f2f2f2;
+}
+
+.lang-menu ul li a:before {
+    content: '';
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    margin-right: 10%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.de:before {
+    background-image: url(flag-of-Germany.png);
+}
+
+.en:before {
+    background-image: url(flag-of-United-Kingdom.png);
+}
+
+.lang-menu:hover ul {
+    display: block;
+}
+
+
+
+@media(max-width: 900px){
+	.table1 thead , .table2 thead , .table2 th , .table1 th{
+
+		margin-left:0px;
+		display:block;
+		width: 200PX;
+		font-size:14px;
+		padding: 12;
+		#position: relative;
+	}
+
+.table2, .table2 tbody,  .table2,	.table1, .table1 tbody,  .table1 td{
+		margin-left:0px;
+#		display:block;
+		width: 350px;
+		font-size:15px;
+		text-align: left;
+		position: relative;
+	}
+
+
+
+
+
+	.table111 td::before{
+		content: attr(data-label1);
+		position: absolute;
+		left:0;
+		width: 50%;
+		padding-left:0px;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.table_result thead , .table_result  th{
+    display: none;
+	}
+
+  .table_result td.hidemobile {
+   display:none;
+   visibility:hidden;
+  }
+
+  .table_result td.hidenormal {
+   display:inline;
+   text-align: left;
+#   width: 100%;
+  }
+
+
+	.table_result, .table_result tbody,  .table td{
+	#	display: block;
+		width: 100%;
+    text-align: left;
+    margin-left:0px;
+    #background: #F2F3F4;
+    #font-size:20px;
+    font-family: 'Didact Gothic', sans-serif;
+	}
+	.table_result tr{
+    text-align: left;
+		margin-bottom:0px;
+  	#font-size:20px;
+
+  #  display: block;
+	}
+	.table_result td{
+		font-size:20px;
+		text-align: left;
+		padding-left: 10px;
+	#	text-align: left;
+	#	position: absolut;
+	}
+
+}

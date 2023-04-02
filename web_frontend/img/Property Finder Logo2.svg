@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg349"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="Property Finder Logo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview351"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.87659933"
+     inkscape:cx="404.40369"
+     inkscape:cy="-104.95103"
+     inkscape:window-width="1387"
+     inkscape:window-height="1134"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs346">
+    <clipPath
+       id="presentation_clip_path"
+       clipPathUnits="userSpaceOnUse">
+   <rect
+   x="0"
+   y="0"
+   width="21000"
+   height="29700"
+   id="rect2" />
+
+  </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       class="SlideGroup"
+       id="g138"
+       transform="matrix(0.01,0,0,0.01,-49.599512,-87.076097)">
+  <g
+   id="g136">
+   <g
+   id="container-id1">
+    <g
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+     <g
+   class="Page"
+   id="g132">
+      <g
+   class="Group"
+   id="g130">
+       <g
+   class="TextShape"
+   id="g91">
+        <g
+   id="id3">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="5250"
+   y="10204"
+   width="9501"
+   height="1946"
+   id="rect80" />
+
+         <text
+   class="SVGTextShape"
+   id="text88"><tspan
+     class="TextParagraph"
+     font-family="'Adobe Myungjo Std'"
+     font-size="847px"
+     font-weight="400"
+     id="tspan86"><tspan
+       class="TextPosition"
+       x="5748"
+       y="11074"
+       id="tspan84"><tspan
+         fill="#000099"
+         stroke="none"
+         id="tspan82">PROPERTY FINDER</tspan></tspan></tspan></text>
+
+        </g>
+
+       </g>
+
+       <g
+   class="com.sun.star.drawing.LineShape"
+   id="g98">
+        <g
+   id="id4">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="5723"
+   y="11372"
+   width="8555"
+   height="55"
+   id="rect93" />
+
+         <path
+   fill="none"
+   stroke="#000099"
+   stroke-width="53"
+   stroke-linejoin="round"
+   d="m 5750,11399 h 8500"
+   id="path95" />
+
+        </g>
+
+       </g>
+
+       <g
+   class="com.sun.star.drawing.LineShape"
+   id="g105">
+        <g
+   id="id5">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="5723"
+   y="9953"
+   width="3305"
+   height="55"
+   id="rect100" />
+
+         <path
+   fill="none"
+   stroke="#000099"
+   stroke-width="53"
+   stroke-linejoin="round"
+   d="M 5750,9980 H 9000"
+   id="path102" />
+
+        </g>
+
+       </g>
+
+       <g
+   class="com.sun.star.drawing.LineShape"
+   id="g112">
+        <g
+   id="id6">
+         <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="10973"
+   y="9953"
+   width="3305"
+   height="55"
+   id="rect107" />
+
+         <path
+   fill="none"
+   stroke="#000099"
+   stroke-width="53"
+   stroke-linejoin="round"
+   d="m 11000,9980 h 3250"
+   id="path109" />
+
+        </g>
+
+       </g>
+
+       <g
+   class="Group"
+   id="g128">
+        <g
+   class="com.sun.star.drawing.LineShape"
+   id="g119">
+         <g
+   id="id7">
+          <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="8959"
+   y="9189"
+   width="1096"
+   height="555"
+   id="rect114" />
+
+          <path
+   fill="none"
+   stroke="#000099"
+   stroke-width="81"
+   stroke-linejoin="round"
+   d="m 9000,9702 1013,-472"
+   id="path116" />
+
+         </g>
+
+        </g>
+
+        <g
+   class="com.sun.star.drawing.LineShape"
+   id="g126">
+         <g
+   id="id8">
+          <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="9959"
+   y="9189"
+   width="1096"
+   height="555"
+   id="rect121" />
+
+          <path
+   fill="none"
+   stroke="#000099"
+   stroke-width="81"
+   stroke-linejoin="round"
+   d="m 10000,9230 1013,472"
+   id="path123" />
+
+         </g>
+
+        </g>
+
+       </g>
+
+      </g>
+
+     </g>
+
+    </g>
+
+   </g>
+
+  </g>
+
+ </g>
+  </g>
+</svg>
