@@ -11,6 +11,8 @@ from urllib.request import urlretrieve
 #from PIL import Image, ImageEnhance, ImageFilter
 from wand.image import Image as Img
 
+#git commit -m "get Types Haus"
+#git push -u origin main
 
 import pysftp
 cnopts = pysftp.CnOpts()
@@ -211,6 +213,8 @@ def check_types():
         Update properties  set property_type = 'Villa/Haus' where  property_type ='besondere Immobilie';
         Update properties  set property_type = 'Villa/Haus' where  property_type ='Building';
         Update properties  set property_type = 'Villa/Haus' where  property_type ='Villa';
+        Update properties  set property_type = 'Villa/Haus' where  property_type ='Haus';
+
 
 
         Update properties  set property_type = 'Wohnung' where  property_type like'Erdgeschosswohnung%';
@@ -226,7 +230,7 @@ def check_types():
 
         Update properties  set property_type = 'Neubau' where lower(property_type) like '%neubauprojekt%' ;
 
-        UPDATE properties SET property_type='' WHERE property_type NOT IN (SELECT TYPE FROM property_types) AND property_type IS NOT NULL AND property_type !=''
+        UPDATE properties SET property_type='' WHERE property_type NOT IN (SELECT TYPE FROM property_types) AND property_type IS NOT NULL AND property_type !='';
         
         """
         cur.execute(sql)
